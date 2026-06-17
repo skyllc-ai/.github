@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/skyllc-ai/UltraFastFileSearch/actions/workflows/ci.yml"><img src="https://github.com/skyllc-ai/UltraFastFileSearch/actions/workflows/ci.yml/badge.svg" alt="UFFS CI"></a>
+  <a href="https://github.com/skyllc-ai/UltraFastFileSearch/actions/workflows/pr-fast.yml"><img src="https://img.shields.io/github/actions/workflow/status/skyllc-ai/UltraFastFileSearch/pr-fast.yml?branch=main&label=CI" alt="UFFS CI"></a>
   <a href="https://github.com/skyllc-ai/UltraFastFileSearch/releases/latest"><img src="https://img.shields.io/github/v/release/skyllc-ai/UltraFastFileSearch?label=UFFS%20release" alt="UFFS release"></a>
   <a href="https://github.com/skyllc-ai/UltraFastFileSearch/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL--2.0-brightgreen.svg" alt="License: MPL-2.0"></a>
   <a href="https://github.com/skyllc-ai/UltraFastFileSearch/issues"><img src="https://img.shields.io/github/issues/skyllc-ai/UltraFastFileSearch?label=open%20issues" alt="Open issues"></a>
