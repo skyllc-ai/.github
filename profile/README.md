@@ -49,7 +49,7 @@ A polished GUI and monetized TUI built on top of the open-source UFFS
 engine. Target users: developers, sysadmins, and incident responders who
 search millions of files daily and need something elegant *and* stupid-fast.
 
-**Interested?** Email [`uffs@nios.net`](mailto:uffs@nios.net) or open a
+**Interested?** Email [`partnerships@uffs.io`](mailto:partnerships@uffs.io) or open a
 [GitHub discussion](https://github.com/skyllc-ai/UltraFastFileSearch/discussions)
 with the `commercial-interest` label.
 
@@ -78,7 +78,7 @@ The code under [`skyllc-ai/*`](https://github.com/skyllc-ai) is the work sample.
 
 ### Contact
 
-- Engineering roles / technical collaboration: [`uffs@nios.net`](mailto:uffs@nios.net)
+- Engineering roles / technical collaboration: [`careers@uffs.io`](mailto:careers@uffs.io)
 - PGP signing key: `E406D32B4736D09F` (ed25519, published on the GitHub profile)
 
 ---
